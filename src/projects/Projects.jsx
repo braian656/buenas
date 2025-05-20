@@ -1,5 +1,4 @@
 import Card from "./card/Card"
-import PageProject from "./page_proj/PageProject";
 
 import books from '../data/data.json'
 

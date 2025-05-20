@@ -1,5 +1,6 @@
 import Button from '../button-component/Button'
 import FallingBoxes from './icons-animation/FallingBoxes'
+
 function Hero (){
 
 
