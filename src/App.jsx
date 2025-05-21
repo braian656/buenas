@@ -27,24 +27,14 @@ function App() {
    )
 
 
-   const [modalActive, setModalActive] = useState(false)
-   console.log(modalActive)
+  const [modalActive, setModalActive] = useState(false)
   return (
 
     <>
       <Hero></Hero> 
-
-
       <Projects setModalActive={setModalActive} setDataActualProject={setDataActualProject}></Projects>
-      {modalActive &&  <PageProject dataActualProject={dataActualProject} setModalActive={setModalActive}></PageProject>
-}
-
-      {/* page project debe recibir la info de la card */}
-
+      {modalActive &&  <PageProject dataActualProject={dataActualProject} setModalActive={setModalActive}></PageProject>}
       <Footer></Footer>
-
-
-
     </>
    
   )

@@ -30,7 +30,7 @@ function Hero (){
                     size="text-sm"
                     width={'w-2xs'}
                     borRadius="rounded-lg"
-                    text={<a href="https://drive.google.com/file/d/1A_i5PSAMwMOVg3XtbPufa9tGKOYlWrIM/view?usp=sharing">Mira mi CV!</a>}
+                    text={<a href="https://drive.google.com/file/d/1wWX7WpXQa-AtWQ-IW01d7oqPyBrSdHAa/view?usp=sharing">Mira mi CV!</a>}
                     clrFont="text-black"
                     marginButton="mb-5 mt-4">     
                     </Button>
