@@ -3,23 +3,29 @@
       "id": 1,
       "name": "E-commerce + firebase",
       "image": "./images/images-projects/e-commer-2.png",
-      "link": "https://www.amazon.com/Who-Was-Steve-Jobs/dp/0448462110",
-      "info": "En Este Proyecto implemente un sistema de carritos usando Redux, el usuario puede guarda, remover, comprar.Un sistema de Autenticacion con Firebase Auth , navegacion entre componentes con Reac-router-dom>. Interfaz hecha con Tailwind, pagination",
+      "link": "https://ecommercewithtsandreact.netlify.app/",
+      "year" : "2025",
+      "github": "https://github.com/braian656/e-commerce-TS-React",
+      "info": "Implemente un sistema de carritos usando Redux, el usuario puede guarda, remover, comprar.Sistema de Autenticacion con Firebase Auth. Uso Reac-router-dom. Interfaz hecha con Tailwind, pagination.",
       "tech" : ["React", "TS", "firebase", "Tailwind"]
     },
     {
       "id": 2,
       "name": "E-commerce",
       "image": "./images/images-projects/e-commerce.png",
-      "link": "https://www.gutenberg.org/ebooks/7256",
+      "link": "https://e-comm-react-project.netlify.app/",
+      "year" : "2025",
+      "github": "https://github.com/braian656/e-commerce-react",
       "info": "Interfaz hecha con Tailwind, Navegacion entre componentes con React-router-dom, redux para almacenar datos de autenticacion y de carrito. Responsive Design, pagination",
       "tech" : ["React", "Tailwind"]
     },
     {
       "id": 3,
       "name": "Snake Game",
+      "year" : "2024",
       "image": "./images/images-projects/snake-game.webp",
-      "link": "https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341",
+      "link": "https://snakegame121212.netlify.app/",
+      "github": "https://github.com/braian656/snake-game/blob/main/index.html",
       "info": "Clasico juego del snake , HTML y CSS para la interfaz, JS para funciones como dibujar, colisiones, y puntuacion, mas aumento de velocidad por cada manzana comida.",
       "tech" : ["HTML", "CSS", "JS"]
     },
@@ -27,7 +33,9 @@
       "id": 4,
       "name": "Blog HTML + JS + CSS",
       "image": "./images/images-projects/blog.webp",
-      "link": "https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341",
+      "year" : "2024",
+      "link": "https://blog121212.netlify.app/",
+      "github" : "https://github.com/braian656/blog",
       "info": "Blog dinamico con js, los post pueden abrirse, con la opcion de comentar. Y tiene buen diseño.",
       "tech" : ["HTML", "CSS", "JS"]
     },
@@ -35,7 +43,9 @@
       "id": 5,
       "name": "Cart Game",
       "image": "./images/images-projects/cartGame.png",
-      "link": "https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341",
+      "link": "https://cart-game-js.netlify.app/",
+      "year" : "2024",
+      "github": "https://github.com/braian656/cart-game-JS/blob/main/main.js",
       "info": "Juego donde el usuario debe ir evitando otros autos, con sistema de colision y reinicio en caso de esto, puntuacion, y aumento de velocidad.",
       "tech" : ["HTML","CSS","JS"]
       
@@ -44,7 +54,9 @@
       "id": 6,
       "name": "Restaurante Landing Page",
       "image": "./images/images-projects/landing-page-restaurant.png",
-      "link": "https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341",
+      "link": "https://landingpage121212.netlify.app/",
+      "year" : "2025",
+      "github" : "https://github.com/braian656/proj-landing-page",
       "info": "Landing page dirigida a Rests, con secciones hero , about-us, y el menu, con funcionalidades, de elegir el menu por categoria.",
       "tech" : ["Tailwind", "JS"]
     },
@@ -52,7 +64,9 @@
       "id": 7,
       "name": "Turnero",
       "image": "./images/images-projects/turnero-sencillo.png",
-      "link": "https://www.amazon.com/Animal-Farm-George-Orwell/dp/0451526341",
+      "year" : "2025",
+      "link": null,
+      "github" : null,
       "info": "Turnero js, el usuario pone su info y elegi unos de los campos opcionales, para realizar efectivo el turno.",
       "tech" : ["Tailwind", "JS"]
     }

@@ -1,0 +1,63 @@
+
+
+.contentName h1{
+    font-weight: 800;
+    color: #f2f2f2;
+}
+.contentName .span{
+    color:  #4A4A4A;
+    font-size: clamp(12px, 5vw,1rem);
+    font-weight: 500;
+}
+.contentName .name{
+    font-size: clamp(32px, 5vw, 64px);
+    margin: 4px 0;
+    color: #232323;
+    line-height: 40px;
+}
+.contentName .job{
+    font-size: clamp(28px, 5vw,54px);
+    color:  #4A4A4A;
+}
+
+.contentText{
+    margin: 10px 0;
+    width: 100%;
+}
+@media (width > 520px){
+    .contentText{
+        width: 60%;
+    }
+
+}
+
+.anchor{
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.icon{
+    margin-right: 0.625rem;
+}
+.text{
+    color: #4A4A4A;
+    /* font-size: 1.2rem; */
+    font-size: clamp(0.625rem, 5vw, 1.2rem)
+}
+
+.contentTech{
+    /* margin: 10px 0; */
+    width: 100%;
+    padding: 0.625rem 0;
+}
+
+.badge{
+    font-weight: 600;
+    color: oklch(70.7% 0.022 261.325);
+    padding: 5px;
+    border: 1px solid  oklch(70.7% 0.022 261.325);
+    border-radius: 8px;
+    margin-right: 8px;
+}
+

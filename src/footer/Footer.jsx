@@ -3,9 +3,10 @@ function Footer (){
         <footer className="h-24 bg-[#000] grid place-center">
 
             <h1 className="text-center font-bold text-gray-500">
-                BRAIAN CARRANZA
-            </h1>
+                Braian Carranza
+            </h1>   
 
+            
         </footer>
     )
 }

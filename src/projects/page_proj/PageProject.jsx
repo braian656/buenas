@@ -17,7 +17,8 @@ function PageProject ({dataActualProject, setModalActive}){
 
             <div className={styles.page}>
                 <div className={styles.image}>
-
+                    
+        
                     <img className={styles.img} src={dataActualProject.image} alt={dataActualProject.title} />
 
                 </div>
