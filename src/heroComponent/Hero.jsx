@@ -1,6 +1,6 @@
 import Button from '../button-component/Button'
 import styles from './heroStyle.module.css'
-import Icons from './section-icons/icons'
+import Icons from './section-icons/Icons'
 import {FolderOpen, Download} from 'lucide-react'
 
 function Hero (){
