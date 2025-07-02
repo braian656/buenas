@@ -4,9 +4,9 @@
 import { useState } from "react"
 
 // componentes
-import Hero from './heroComponent/Hero'
 import Projects from './projects/Projects'
-import Footer from './footer/Footer'
+import Hero from "./heroComponent/hero"
+import Footer from "./footer/footer"
 import PageProject from "./projects/page_proj/PageProject"
 
 
