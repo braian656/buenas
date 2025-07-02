@@ -4,28 +4,8 @@ import Card from "./card/Card"
 
 
 
-function Projects ({setModalActive,setDataActualProject}){
+function Projects (){
 
-    console.log(Card)
-  
-
-    // const getInfo =( title, image, id, info, link, tech)=>{
-    //         setModalActive(true)
-    //         setDataActualProject(
-    //             { 
-    //                 id: id,
-    //                 title: title,
-    //                 image : image,
-    //                 info : info,
-    //                 link :  link,
-    //                 tech : tech,
-    //             }
-    //         )
-
-            
-
-        
-    // }
     
     return (
         <section id="proyectos" className='w-full scroll-smooth py-6 px-6 bg-[#000] sm:flex sm:flex-col sm:h-auto sm:px-8 sm:py-10'>

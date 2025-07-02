@@ -1,9 +1,8 @@
 import styles from './cardStyle.module.css'
 import {Calendar,Github} from 'lucide-react'
 
-function Card({nameProject, imageProject, id, link,info , tech,github}){
+function Card({nameProject, imageProject, id, link,info , tech, github, year}){
 
-    console.log(tech)
 
     return (
         <article id={id} className={styles.card}>
@@ -20,7 +19,7 @@ function Card({nameProject, imageProject, id, link,info , tech,github}){
                     <div className={styles.myinfo}>
                         <div className={styles.title}>
                             <h1>{nameProject}</h1>
-                            <span><Calendar /><p>1000</p></span>
+                            <span><Calendar /><p>{year}</p></span>
                         </div>
 
                         <div className={styles.descr}>

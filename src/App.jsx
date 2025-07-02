@@ -32,7 +32,7 @@ function App() {
 
     <>
       <Hero></Hero> 
-      <Projects setModalActive={setModalActive} setDataActualProject={setDataActualProject}></Projects>
+      <Projects></Projects>
       {modalActive &&  <PageProject dataActualProject={dataActualProject} setModalActive={setModalActive}></PageProject>}
       <Footer></Footer>
     </>
