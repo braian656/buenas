@@ -1,5 +1,11 @@
 
-@import "tailwindcss";
+/* @import "tailwindcss"; */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 
 @theme{
     --primary-clr: #000;
