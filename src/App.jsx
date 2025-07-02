@@ -10,8 +10,8 @@ import Footer from './footer/Footer'
 import PageProject from "./projects/page_proj/PageProject"
 
 
-import './App.css'
-import './global.css'
+// import './App.css'
+// import './global.css'
 
 
 function App() {
