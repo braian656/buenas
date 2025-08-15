@@ -87,7 +87,7 @@ function Hero (){
                     size="text-sm"
                     width={'w-full sm:w-2xs'}
                     borRadius="rounded-lg"
-                    text={<a className={styles.anchor} href="https://drive.google.com/file/d/1wWX7WpXQa-AtWQ-IW01d7oqPyBrSdHAa/view?usp=sharing">
+                    text={<a className={styles.anchor} href="https://drive.google.com/file/d/1sMOEFNebA6p5tO11FeypYRnQ4KP1sieV/view?usp=sharing">
                         <span><Download className={styles.icon} strokeWidth={1}></Download></span>Descargar CV</a>}
                     clrFont="text-black"
                     margin="mb-5 mt-4"
